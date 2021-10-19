@@ -1,3 +1,4 @@
+
 package main;
 
 import employee_stuff.Employee;
@@ -15,7 +16,7 @@ public class Hello {
 
 		emp2.setNumber(12);
 		emp2.setName("Matthew O'Reilly");
-		emp2.setSalary(20000);
+		emp2.setSalary(20000f);
 
     System.out.println(emp1);
     System.out.println(emp2);
